@@ -1,0 +1,34 @@
+body {
+    background-color:#aaa;
+    
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.titulo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 50px;
+ 
+}
+
+.pesquisa {
+    margin: 30px;
+    text-align: center;
+}
+
+#text-pesquisar {
+    width: 200px;
+    height: 30px;
+}
+
+button {
+    height: 35px;
+    margin: 5px;
+}
